@@ -33,3 +33,20 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   .nav-main ul {
     display: flex;
   }
+  /*buttons */
+  .nav-main ul
+  
+    .btn {
+      cursor: pointer;
+         background: #FF99FF;
+      display: inline-block;
+      border: 0;
+      font-weight: bold;
+      padding: 15px 10px;
+      color: #fff;
+      font-size: 10px;
+      border: 1px solid #fff;
+   
+    }
+     
+  
